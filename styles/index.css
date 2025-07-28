@@ -97,3 +97,42 @@ header{
     width: 403px;
     height: 328px;
 }
+
+/* users style */
+
+.users-section{
+    width: 1140px;
+    gap: 10px;
+    text-align: center;
+    border: none;
+    border-radius: 24px;
+    padding: 80px 50px;
+    margin: 116px 159px 137px 141px;
+    background-color: rgba(78, 71, 255, 0.1);
+}
+.users-title{
+    margin-bottom: auto;
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    text-align: center;
+}
+.users-contant{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+}
+.users-contant h3{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    margin-bottom: auto;
+}
+.users-contant p{
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: auto;
+}
