@@ -39,3 +39,61 @@ header{
     font-size: 16px;
     text-align: center;
 }
+/* banner style */
+.banner-container{
+    padding: 158px 117px 152px;
+}
+.banner-contant{
+    font-weight: bold;
+    font-size: 65px;
+    text-align: center;
+    color: #252432;
+    margin-bottom: 37px;
+}
+
+/* action style */
+
+.action-container{
+    width: 1140px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    margin: 116px 159px 137px 141px;
+}
+.action-contant{
+    width: 517px;
+    gap: 23px;
+    text-align: left;
+    padding: 62px 220px 62px 0px;
+}
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    text-align: left;
+}
+.action-subtitle{
+    font-weight: 400;
+    font-size: 24px;
+    text-align: left;
+    color: rgba(37, 36, 50, 0.5);
+}
+.btn-2{
+    width: 229px;
+    height: 48px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    gap: 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+}
+.action-image{
+    border: none;
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+}
